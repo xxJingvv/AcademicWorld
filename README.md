@@ -1,4 +1,4 @@
-# Course Project of CS411 - Academic World Dashboard
+# Academic World Dashboard
 The project assignment of CS411, the project owner is Jing
 
 
